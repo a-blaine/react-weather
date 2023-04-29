@@ -7,6 +7,7 @@ export default function Footer() {
       <a
         href="https://github.com/a-blaine/shecodes-weather-app"
         target="_blank"
+        rel="noreferrer noopener"
       >
         Open source code
       </a>{" "}
