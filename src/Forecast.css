@@ -1,0 +1,16 @@
+.forecast-container {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.forecast-container .forecast-day {
+  font-size: 18px;
+}
+
+.forecast-container .forecast-temperature {
+  font-size: 15px;
+}
+
+.forecast-container .forecast-temperature-max {
+  font-weight: bold;
+}

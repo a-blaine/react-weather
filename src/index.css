@@ -1,13 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600&display=swap");
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background: #f0fbff;
+  color: #25161b;
+  font-family: Noto Sans;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+a {
+  text-decoration: none;
+}
+
+.container {
+  background: #bccad6;
+  border: 1px solid rgba(32, 22, 27, 0.25);
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto 10px;
+  max-width: 800px;
+  min-width: 200px;
 }

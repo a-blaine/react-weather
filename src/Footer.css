@@ -1,0 +1,14 @@
+.footer {
+  font-family: monospace;
+  font-size: 14px;
+  text-align: center;
+}
+
+.footer a {
+  color: rgba(29, 41, 132, 0.8);
+  transition: all 200ms ease;
+}
+
+.footer a:hover {
+  font-weight: bold;
+}

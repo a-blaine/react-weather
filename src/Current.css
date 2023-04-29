@@ -1,0 +1,76 @@
+hr {
+  margin: 0 auto 20px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 10px;
+}
+
+.current-information {
+  margin: 30px auto 0;
+  text-align: center;
+  padding: auto 20px;
+}
+
+.current-contents-left {
+  font-size: 18px;
+  position: relative;
+  top: 8px;
+}
+
+.current-contents-left img {
+  display: block;
+  margin: 0 auto;
+  transform: scale(1.5);
+  position: relative;
+  top: -8px;
+}
+
+.low-temp {
+  opacity: 90%;
+}
+
+.current-contents-center {
+  font-size: 120px;
+  padding: 0;
+  font-weight: bold;
+  text-align: right;
+  position: relative;
+  right: -25px;
+}
+
+.current-contents-center a {
+  color: #25161b;
+}
+
+.current-contents-center .inactive {
+  color: #ffffff;
+}
+
+.current-contents-center .units {
+  font-size: 24px;
+  position: relative;
+  top: -74px;
+  left: -20px;
+}
+
+.fahrenheit {
+  position: relative;
+  right: -50px;
+}
+
+.current-contents-right {
+  text-align: left;
+  position: relative;
+  right: -93px;
+  top: -10px;
+}
+
+.current-contents-right .weather-details {
+  font-size: 13px;
+  opacity: 90%;
+}

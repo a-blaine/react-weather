@@ -1,0 +1,17 @@
+.current-location-button {
+  color: #25161b;
+}
+
+.date-time,
+.units,
+.description {
+  font-size: 20px;
+}
+
+.city {
+  text-transform: capitalize;
+}
+
+.location-dt {
+  margin: 40px auto 30px auto;
+}
