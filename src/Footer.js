@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div class="footer">
       <a
-        href="https://github.com/a-blaine/shecodes-weather-app"
+        href="https://github.com/a-blaine/react-weather"
         target="_blank"
         rel="noreferrer noopener"
       >
