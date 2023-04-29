@@ -22,11 +22,11 @@ export default function Current() {
         <div className="col my-auto current-contents-center">
           <span id="current-temperature">3</span>
           <span className="units">
-            <a id="celsius-link" href="#">
+            <a id="celsius-link" href="/">
               °C
             </a>
             |
-            <a className="inactive" id="fahrenheit-link" href="#">
+            <a className="inactive" id="fahrenheit-link" href="/">
               °F
             </a>
           </span>
